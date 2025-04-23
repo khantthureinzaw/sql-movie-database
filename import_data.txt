@@ -1,0 +1,10 @@
+.import --csv --skip 1 csv_files/Studios.csv studios
+.import --csv --skip 1 csv_files/Directors.csv directors
+.import --csv --skip 1 csv_files/Movies.csv movies
+.import --csv --skip 1 csv_files/SourceMaterials.csv source_materials
+.import --csv --skip 1 csv_files/Genres.csv genres
+.import --csv --skip 1 csv_files/Awards.csv awards
+.import --csv --skip 1 csv_files/MovieDirectors.csv movie_directors
+.import --csv --skip 1 csv_files/MovieGenres.csv movie_genres
+.import --csv --skip 1 csv_files/MovieSources.csv movie_sources
+.import --csv --skip 1 csv_files/MovieAwards.csv movie_awards
