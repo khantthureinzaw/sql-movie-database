@@ -10,13 +10,15 @@ A comprehensive SQL database cataloging all theatrically released animated films
 ## Video Overview
 [![YouTube Demo](https://img.shields.io/badge/YouTube-Demo-red)](https://youtu.be/hXLUBrPA-4o)
 
-## 🗄️ Database Schema
-├── disney.db # SQLite database
-├── schema.sql # Complete schema definition
-├── queries.sql # 15+ analytical queries
-├── csv_files/ # Original data files
-├── import.txt # Data import instructions
-└── DESIGN.md # Full project specifications
+## Database Schema
+```
+├── disney.db               # SQLite database
+├── schema.sql              # Complete schema definition
+├── queries.sql             # 15+ analytical queries
+├── csv_files/              # Original data files
+├── import.txt              # Data import instructions
+└── DESIGN.md               # Full project specifications
+```
 
 
 ## Key Features
