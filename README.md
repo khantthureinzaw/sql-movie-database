@@ -68,5 +68,4 @@ CHECK (type IN ('nominated', 'won'))
 - **Data Sources**:
   - Film metadata from [Wikipedia's WDAS films table](https://en.wikipedia.org/wiki/List_of_Walt_Disney_Animation_Studios_films)
   - Box office data from [Box Office Mojo](https://www.boxofficemojo.com/)
-- **Code License**: [MIT](LICENSE) (covers SQL schema/queries)
 - **Developer**: Khant Thurein Zaw | CS50 SQL Final Project
