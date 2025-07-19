@@ -12,12 +12,14 @@ A comprehensive SQL database cataloging all theatrically released animated films
 
 ## Database Schema
 ```
-├── disney.db               # SQLite database
-├── schema.sql              # Complete schema definition
-├── queries.sql             # 15+ analytical queries
 ├── csv_files/              # Original data files
-├── import.txt              # Data import instructions
-└── DESIGN.md               # Full project specifications
+├── DESIGN.md               # Full project specifications
+├── README.md
+├── diagram.png             # Entity-relationship model
+├── disney.db               # SQLite database
+├── import_data.txt              # Data import instructions
+├── queries.sql             # 15+ analytical queries
+└── schema.sql              # Complete schema definition
 ```
 
 
